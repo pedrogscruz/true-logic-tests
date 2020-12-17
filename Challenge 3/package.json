@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "name": "app",
+  "version": "1.0.0",
+  "main": "test3.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "PORT=4000 node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
